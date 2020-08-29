@@ -15,6 +15,8 @@ Web scraping:
 List of U.S. states and territories by educational attainment (https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment)
 House income in the united states (https://en.wikipedia.org/wiki/Household_income_in_the_United_States)
 
+*** note: the gun violence is over 100mb which cannot be uploaded to github repo
+
 ### Transfoamtion of the data
 The tranformation that was required:
 
